@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpotifyAdMuter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpotifyAdMuter_jar</output-path>
+    <root id="archive" name="SpotifyAdMuter.jar">
+      <element id="module-output" name="SpotifyAdMuter" />
+    </root>
+  </artifact>
+</component>
